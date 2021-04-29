@@ -1,4 +1,4 @@
-### Hi there, I'm xCLY - 👋
+### Hi there, I'm String - 👋
 
 
 ## Bio
