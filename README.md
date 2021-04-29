@@ -21,9 +21,4 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Allaj" src="https://github-readme-stats.vercel.app/api?username=realstring&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-</details>
