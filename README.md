@@ -22,3 +22,5 @@
 
 
   <img align="left" alt="Allaj" src="https://github-readme-stats.vercel.app/api?username=realstring&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+  <img align="center" alt="Allaj" src="https://media.discordapp.net/attachments/836666695740293153/837382401092747304/7Q8iWYh.png?width=960&height=202" />
