@@ -4,3 +4,7 @@
 </p>
 
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589193582473117699)](https://discord.com/users/589193582473117699)
+
+
+
+BOK GIBI OLDU AMK AYARLARIM SONRA
