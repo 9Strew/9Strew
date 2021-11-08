@@ -4,7 +4,10 @@
 </p>
 
 <p align="center">
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589193582473117699)](https://discord.com/users/589193582473117699)
+  
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589193582473117699
+                            )](https://discord.com/users/589193582473117699)
+  
 </p>
 
 ![Footer](https://cdn.discordapp.com/attachments/877302381270937630/907387209638879263/footer.png)
