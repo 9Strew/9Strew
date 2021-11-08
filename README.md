@@ -7,7 +7,6 @@
   <a href="https://discord.com/users/820680923887566868/">
  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/589193582473117699)](https://discord.com/users/589193582473117699)
   </a>
-<p align="center">DM <a href="https://discord.com/users/820680923887566868/">me</a> on Discord for any support!</p>
 </p>
 
 ![Footer](https://cdn.discordapp.com/attachments/877302381270937630/907386084718166086/footer.png)
